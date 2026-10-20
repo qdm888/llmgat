@@ -1,0 +1,7 @@
+torch>=1.12
+transformers>=4.20
+numpy
+scikit-learn
+tqdm
+openai>=1.0
+pillow
